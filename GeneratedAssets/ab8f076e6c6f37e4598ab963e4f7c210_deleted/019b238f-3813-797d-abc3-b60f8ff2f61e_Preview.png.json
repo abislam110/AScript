@@ -1,0 +1,11 @@
+{
+    "asset": "af4060a1641f3ea4dab9538a7f8a006c",
+    "fileName": "019b238f-3813-797d-abc3-b60f8ff2f61e_Preview.png",
+    "prompt": "A rock material like you would find on planet namek in Dragonball z",
+    "negativePrompt": "",
+    "model": "44ec3749-963a-44b1-aa54-dc19f6ed8ab2",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1580196295,
+    "w3CTraceId": "a3aca5e1b1d61b3c3125851db280206e",
+    "refinementMode": "Generation"
+}
